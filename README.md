@@ -1,2 +1,2 @@
 # BarBot
-An Arduino Robot that makes cocktails
+An Arduino Robot that mixes cocktails
